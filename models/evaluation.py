@@ -94,7 +94,7 @@ def evaluate_QA(QA_results):
     return avg_em
 
 def full_evaluation(result_file):
-    with open(result_file, 'r') as f:
+    with open(result_file, 'r', encoding="utf-8") as f:
         all_samples = json.load(f)
 
     executable_samples = [sample for sample in all_samples if sample['flag'] == 'success']

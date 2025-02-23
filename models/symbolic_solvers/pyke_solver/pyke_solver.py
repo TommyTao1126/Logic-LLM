@@ -1,6 +1,10 @@
 import os
 from pyke import knowledge_engine
 import re
+import shutil
+import time
+import importlib
+import sys
 
 class Pyke_Program:
     def __init__(self, logic_program:str, dataset_name = 'ProntoQA') -> None:
@@ -84,6 +88,10 @@ class Pyke_Program:
     def parse_forward_rule(self, f_index, rule):
         premise, conclusion = rule.split('>>>')
         premise = premise.strip()
+        if 'All' in premise:
+            s = premise.find(' ') + 1
+            premise = premise[s:]
+
         # split the premise into multiple facts if needed
         premise = premise.split('&&')
         premise_list = [p.strip() for p in premise]
@@ -93,13 +101,33 @@ class Pyke_Program:
         conclusion = conclusion.split('&&')
         conclusion_list = [c.strip() for c in conclusion]
 
+        negation_patt = r'.*?(¬|!|Not\()([^)]*?)\)?'
+        def replacer(match):
+            # match.group(2) is the part inside Not() or after ¬/!
+            return match.group(2)
+
         # create the Pyke rule
         pyke_rule = f'''fact{f_index}\n\tforeach'''
         for p in premise_list:
-            pyke_rule += f'''\n\t\tfacts.{p}'''
+            subbed = re.sub(negation_patt, replacer, p)
+            negation = subbed != p
+            if negation:
+                pyke_rule += '\n\t\tnotany'
+                pyke_rule += f'''\n\t\t\tfacts.{subbed}'''
+            else:
+                pyke_rule += f'''\n\t\tfacts.{p}'''
         pyke_rule += f'''\n\tassert'''
         for c in conclusion_list:
-            pyke_rule += f'''\n\t\tfacts.{c}'''
+            subbed = re.sub(negation_patt, replacer, c)
+            negation = subbed != c
+            if negation:
+                subbed = subbed[:-1] + ', False)'
+                pyke_rule += f'''\n\t\tfacts.{subbed}'''
+
+                # pyke_rule += '\n\t\tnotany'
+                # pyke_rule += f'''\n\t\t\tfacts.{subbed}'''
+            else:
+                pyke_rule += f'''\n\t\tfacts.{c}'''
         return pyke_rule
     
     '''
@@ -126,27 +154,53 @@ class Pyke_Program:
     '''
     Input Example: Metallic(Wren, False)
     '''
-    def parse_query(self, query):
+    def parse_query(self, text):
         pattern = r'(\w+)\(([^,]+),\s*([^)]+)\)'
+        negation_patt = r'.*?(¬|!|Not\()([^)]*?)\)?'
+        def replacer(match):
+            # match.group(2) is the part inside Not() or after ¬/!
+            return match.group(2)
+
+        # Substitute all negations with their internal content
+        query = re.sub(negation_patt, replacer, text)
+        negation = query != text
+
         match = re.match(pattern, query)
+
         if match:
             function_name = match.group(1)
             arg1 = match.group(2)
             arg2 = match.group(3)
             arg2 = True if arg2 == 'True' else False
+            if negation:
+                arg2 = not arg2
             return function_name, arg1, arg2
         else:
             raise ValueError(f'Invalid query: {query}')
 
     def execute_program(self):
         # delete the compiled_krb dir
-        complied_krb_dir = './models/compiled_krb'
-        if os.path.exists(complied_krb_dir):
+        compiled_krb_dir = 'models\compiled_krb'
+        if os.path.exists(compiled_krb_dir):
             print('removing compiled_krb')
-            os.system(f'rm -rf {complied_krb_dir}/*')
+            # shutil.rmtree(compiled_krb_dir, ignore_errors=True)
+
+            os.system(f'rmdir /s /q {compiled_krb_dir}')
+            module_name = "compiled_krb"  # Replace with the actual module name
+
+            # if module_name in sys.modules:
+            #     del sys.modules[module_name]
+            # sys.path_importer_cache.clear()
+
+
+            # os.system(f'mkdir {complied_krb_dir}')
+
+            # os.system(f'rm -rf {complied_krb_dir}/*')
 
         # absolute_path = os.path.abspath(complied_krb_dir)
         # print(absolute_path)
+        # os.makedirs(compiled_krb_dir, exist_ok=True)
+
         try:
             engine = knowledge_engine.engine(self.cache_dir)
             engine.reset()
@@ -158,6 +212,7 @@ class Pyke_Program:
             result = self.check_specific_predicate(subject, predicate, engine)
             answer = self.answer_map[self.dataset_name](result, value_to_check)
         except Exception as e:
+            print("Exception during engine: ", e)
             return None, e
         
         return answer, ""

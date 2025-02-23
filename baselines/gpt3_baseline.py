@@ -24,7 +24,7 @@ class GPT3_Reasoning_Graph_Baseline:
     def prompt_LSAT(self, in_context_example, test_example):
         full_prompt = in_context_example
         context = test_example['context'].strip()
-        question = test_example['question'].strip()
+        question = test_example['question'].strip() + " Generate the answer in the format: " + self.label_phrase
         options = '\n'.join([opt.strip() for opt in test_example['options']])
         full_prompt = full_prompt.replace('[[CONTEXT]]', context)
         full_prompt = full_prompt.replace('[[QUESTION]]', question)
@@ -37,7 +37,7 @@ class GPT3_Reasoning_Graph_Baseline:
         return in_context_examples
 
     def load_raw_dataset(self, split):
-        with open(os.path.join(self.data_path, self.dataset_name, f'{split}.json')) as f:
+        with open(os.path.join(self.data_path, self.dataset_name, f'{split}.json'), encoding="utf-8") as f:
             raw_dataset = json.load(f)
         return raw_dataset
 
@@ -107,7 +107,7 @@ class GPT3_Reasoning_Graph_Baseline:
                         print('Error in generating example: ', sample['id'])
 
         # save outputs        
-        with open(os.path.join(self.save_path, f'{self.mode}_{self.dataset_name}_{self.split}_{self.model_name}.json'), 'w') as f:
+        with open(os.path.join(self.save_path, f'{self.mode}_{self.dataset_name}_{self.split}_{self.model_name}.json'), 'w', encoding="utf-8") as f:
             json.dump(outputs, f, indent=2, ensure_ascii=False)
     
     def update_answer(self, sample, output):

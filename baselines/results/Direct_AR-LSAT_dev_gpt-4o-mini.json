@@ -1,0 +1,1619 @@
+[
+  {
+    "id": "ar_lsat_200006_1-G_1_1",
+    "question": "Which one of the following is a complete and accurate list of the children who must be among those assigned to shared lockers?",
+    "answer": "E",
+    "predicted_reasoning": "C) Juan, Marc, Paul",
+    "predicted_answer": "C) Juan, Marc, Paul"
+  },
+  {
+    "id": "ar_lsat_200006_1-G_1_2",
+    "question": "If Trisha is assigned to locker 3 and Marc alone is assigned to locker 1, then which one of the following must be true?",
+    "answer": "B",
+    "predicted_reasoning": "To solve the problem, let's analyze the given conditions and the implications of the assignments",
+    "predicted_answer": "To solve the problem, let's analyze the given conditions and the implications of the assignments"
+  },
+  {
+    "id": "ar_lsat_200006_1-G_1_3",
+    "question": "If the four boys are assigned to consecutively numbered lockers and Juan is assigned to locker 5, then which one of the following is a complete and accurate list of lockers each of which CANNOT be a shared locker?",
+    "answer": "D",
+    "predicted_reasoning": "To determine which lockers cannot be shared based on the given conditions, let's analyze the",
+    "predicted_answer": "To determine which lockers cannot be shared based on the given conditions, let's analyze the"
+  },
+  {
+    "id": "ar_lsat_200006_1-G_1_4",
+    "question": "Once Rachel has been assigned to a locker, what is the maximum number of different lockers each of which could be the locker to which Juan is assigned?",
+    "answer": "C",
+    "predicted_reasoning": "To determine the maximum number of different lockers to which Juan could be assigned after Rachel",
+    "predicted_answer": "To determine the maximum number of different lockers to which Juan could be assigned after Rachel"
+  },
+  {
+    "id": "ar_lsat_200006_1-G_1_5",
+    "question": "If the first three lockers are assigned to girls, which one of the following must be true?",
+    "answer": "A",
+    "predicted_reasoning": "To solve the problem, we need to analyze the conditions given in the context and",
+    "predicted_answer": "To solve the problem, we need to analyze the conditions given in the context and"
+  },
+  {
+    "id": "ar_lsat_200006_1-G_1_6",
+    "question": "If lockers 1 and 2 are each assigned to one boy and are not shared lockers, then locker 4 must be assigned to",
+    "answer": "C",
+    "predicted_reasoning": "To solve the problem, let's analyze the given conditions and the implications of assigning lockers",
+    "predicted_answer": "To solve the problem, let's analyze the given conditions and the implications of assigning lockers"
+  },
+  {
+    "id": "ar_lsat_200006_1-G_2_7",
+    "question": "Which one of the following could be a complete and accurate list of the types of CDs that are on sale?",
+    "answer": "E",
+    "predicted_reasoning": "To determine which option could be a complete and accurate list of the types of CDs",
+    "predicted_answer": "To determine which option could be a complete and accurate list of the types of CDs"
+  },
+  {
+    "id": "ar_lsat_200006_1-G_2_8",
+    "question": "If new soul is not on sale, then which one of the following must be true?",
+    "answer": "E",
+    "predicted_reasoning": "A) New rap is not on sale.",
+    "predicted_answer": "A) New rap is not on sale."
+  },
+  {
+    "id": "ar_lsat_200006_1-G_2_9",
+    "question": "If both types of jazz are on sale, then which one of the following is the minimum number of types of new CDs that could be included in the sale?",
+    "answer": "A",
+    "predicted_reasoning": "To solve the problem, we need to analyze the conditions given in the context regarding",
+    "predicted_answer": "To solve the problem, we need to analyze the conditions given in the context regarding"
+  },
+  {
+    "id": "ar_lsat_200006_1-G_2_10",
+    "question": "Which one of the following CANNOT be true?",
+    "answer": "D",
+    "predicted_reasoning": "C) Neither type of opera and neither type of soul is on sale.",
+    "predicted_answer": "C) Neither type of opera and neither type of soul is on sale."
+  },
+  {
+    "id": "ar_lsat_200006_1-G_2_11",
+    "question": "If neither type of jazz is on sale, then each of the following must be true EXCEPT:",
+    "answer": "A",
+    "predicted_reasoning": "D) New soul is on sale.",
+    "predicted_answer": "D) New soul is on sale."
+  },
+  {
+    "id": "ar_lsat_200006_1-G_2_12",
+    "question": "If new soul is the only type of new CD on sale, then which one of the following CANNOT be true?",
+    "answer": "A",
+    "predicted_reasoning": "B) Used opera is not on sale.",
+    "predicted_answer": "B) Used opera is not on sale."
+  },
+  {
+    "id": "ar_lsat_200006_1-G_2_13",
+    "question": "If exactly four of the five types of used CDs are the only CDs on sale, then which one of the following could be true?",
+    "answer": "C",
+    "predicted_reasoning": "To determine which option could be true if exactly four of the five types of used",
+    "predicted_answer": "To determine which option could be true if exactly four of the five types of used"
+  },
+  {
+    "id": "ar_lsat_200006_1-G_3_14",
+    "question": "Which one of the following CANNOT be true of the week's tour schedule?",
+    "answer": "C",
+    "predicted_reasoning": "C) The division that is toured on Tuesday is also toured on Thursday.",
+    "predicted_answer": "C) The division that is toured on Tuesday is also toured on Thursday."
+  },
+  {
+    "id": "ar_lsat_200006_1-G_3_15",
+    "question": "If in addition to the Sales division one other division is toured on two consecutive days, then it could be true of the week's tour schedule both that the",
+    "answer": "B",
+    "predicted_reasoning": "To determine which option could be true given the additional condition that one other division is",
+    "predicted_answer": "To determine which option could be true given the additional condition that one other division is"
+  },
+  {
+    "id": "ar_lsat_200006_1-G_3_16",
+    "question": "If in the week's tour schedule the division that is toured on Tuesday is also toured on Friday, then for which one of the following days must a tour of the Production division be scheduled?",
+    "answer": "A",
+    "predicted_reasoning": "To solve this problem, we need to analyze the given conditions and the implications of",
+    "predicted_answer": "To solve this problem, we need to analyze the given conditions and the implications of"
+  },
+  {
+    "id": "ar_lsat_200006_1-G_3_17",
+    "question": "If in the week's tour schedule the division that is toured on Monday is not the division that is toured on Tuesday, then which one of the following could be true of the week's schedule?",
+    "answer": "E",
+    "predicted_reasoning": "To determine which option could be true given the constraints of the tour schedule, let's",
+    "predicted_answer": "To determine which option could be true given the constraints of the tour schedule, let's"
+  },
+  {
+    "id": "ar_lsat_200006_1-G_3_18",
+    "question": "If in the week's tour schedule the division that is toured on Tuesday is also toured on Wednesday, then which one of the following must be true of the week's tour schedule?",
+    "answer": "A",
+    "predicted_reasoning": "To solve this problem, we need to analyze the given conditions and the implications of",
+    "predicted_answer": "To solve this problem, we need to analyze the given conditions and the implications of"
+  },
+  {
+    "id": "ar_lsat_200006_1-G_4_19",
+    "question": "Which one of the following could be a complete and accurate list of the members of the crew?",
+    "answer": "B",
+    "predicted_reasoning": "To determine which option could be a complete and accurate list of the members of the",
+    "predicted_answer": "To determine which option could be a complete and accurate list of the members of the"
+  },
+  {
+    "id": "ar_lsat_200006_1-G_4_20",
+    "question": "If the installation takes three days, and if the same two crew members work on the first and third days, then which one of the following could be the pair of crew members who work on those two days?",
+    "answer": "D",
+    "predicted_reasoning": "To determine which pair of crew members could work on the first and third days of",
+    "predicted_answer": "To determine which pair of crew members could work on the first and third days of"
+  },
+  {
+    "id": "ar_lsat_200006_1-G_4_21",
+    "question": "Each of the following could be a complete and accurate list of the members of the crew EXCEPT:",
+    "answer": "A",
+    "predicted_reasoning": "C) George, Helena, Inga, Leanda\n\nThis option cannot be",
+    "predicted_answer": "C) George, Helena, Inga, Leanda\n\nThis option cannot be"
+  },
+  {
+    "id": "ar_lsat_200006_1-G_4_22",
+    "question": "If the installation takes three days, and if the sanding is done on the third day, then which one of the following could be a list of all the crew members who work on the second day?",
+    "answer": "E",
+    "predicted_reasoning": "To determine which crew members could work on the second day, we need to analyze",
+    "predicted_answer": "To determine which crew members could work on the second day, we need to analyze"
+  },
+  {
+    "id": "ar_lsat_200006_1-G_4_23",
+    "question": "Which one of the following could be a pair of members of the crew both of whom work on the same days as each other and each of whom perform two tasks?",
+    "answer": "D",
+    "predicted_reasoning": "To determine which pair of crew members could work on the same days and each perform",
+    "predicted_answer": "To determine which pair of crew members could work on the same days and each perform"
+  },
+  {
+    "id": "ar_lsat_200310_2-G_1_1",
+    "question": "Which one of the following could be an accurate matching of the hangers to the fabrics of the dresses that hang on them?",
+    "answer": "A",
+    "predicted_reasoning": "To determine which option could be an accurate matching of the hangers to the fabrics",
+    "predicted_answer": "To determine which option could be an accurate matching of the hangers to the fabrics"
+  },
+  {
+    "id": "ar_lsat_200310_2-G_1_2",
+    "question": "If both the silk dress and the gauze dress are on odd-numbered hangers, then which one of the following could be true?",
+    "answer": "B",
+    "predicted_reasoning": "To solve this problem, we need to analyze the conditions given in the context and",
+    "predicted_answer": "To solve this problem, we need to analyze the conditions given in the context and"
+  },
+  {
+    "id": "ar_lsat_200310_2-G_1_3",
+    "question": "If the silk dress is on an even-numbered hanger, which one of the following could be on the hanger immediately to its left?",
+    "answer": "E",
+    "predicted_reasoning": "To solve the problem, we need to analyze the conditions given in the context and",
+    "predicted_answer": "To solve the problem, we need to analyze the conditions given in the context and"
+  },
+  {
+    "id": "ar_lsat_200310_2-G_1_4",
+    "question": "If the polyester dress is on hanger 2, then which one of the following must be true?",
+    "answer": "E",
+    "predicted_reasoning": "To solve this problem, we need to analyze the conditions given in the context and",
+    "predicted_answer": "To solve this problem, we need to analyze the conditions given in the context and"
+  },
+  {
+    "id": "ar_lsat_200310_2-G_1_5",
+    "question": "Which one of the following CANNOT be true?",
+    "answer": "B",
+    "predicted_reasoning": "C) The rayon dress hangs immediately to the left of the wool dress.",
+    "predicted_answer": "C) The rayon dress hangs immediately to the left of the wool dress."
+  },
+  {
+    "id": "ar_lsat_200310_2-G_1_6",
+    "question": "Which one of the following CANNOT hang immediately next to the rayon dress?",
+    "answer": "D",
+    "predicted_reasoning": "C) the polyester dress",
+    "predicted_answer": "C) the polyester dress"
+  },
+  {
+    "id": "ar_lsat_200310_2-G_1_7",
+    "question": "Assume that the original condition that the linen dress hangs immediately to the right of the silk dress is replaced by the condition that the wool dress hangs immediately to the right of the silk dress. If all the other initial conditions remain in effect, which one of the following must be false?",
+    "answer": "D",
+    "predicted_reasoning": "To solve this problem, we need to analyze the new conditions and see which option",
+    "predicted_answer": "To solve this problem, we need to analyze the new conditions and see which option"
+  },
+  {
+    "id": "ar_lsat_200310_2-G_2_8",
+    "question": "Which one of the following could be an accurate matching of the four songs performed at the festival with the instruments on which they are performed, listed in order from the first song performed to the last?",
+    "answer": "B",
+    "predicted_reasoning": "To determine which option could be an accurate matching of the four songs performed at the",
+    "predicted_answer": "To determine which option could be an accurate matching of the four songs performed at the"
+  },
+  {
+    "id": "ar_lsat_200310_2-G_2_9",
+    "question": "Which one of the following could be true?",
+    "answer": "E",
+    "predicted_reasoning": "To determine which option could be true based on the given conditions, let's analyze the",
+    "predicted_answer": "To determine which option could be true based on the given conditions, let's analyze the"
+  },
+  {
+    "id": "ar_lsat_200310_2-G_2_10",
+    "question": "Which one of the following CANNOT be true of the song performed on the flute?",
+    "answer": "C",
+    "predicted_reasoning": "C) It immediately precedes \"Rhino Rock.\"",
+    "predicted_answer": "C) It immediately precedes \"Rhino Rock.\""
+  },
+  {
+    "id": "ar_lsat_200310_2-G_2_11",
+    "question": "If \"Rhino Rock\" is the second song performed at the festival, then which one of the following could be true?",
+    "answer": "E",
+    "predicted_reasoning": "To solve the problem, let's analyze the given conditions step by step.\n\n1.",
+    "predicted_answer": "To solve the problem, let's analyze the given conditions step by step.\n\n1."
+  },
+  {
+    "id": "ar_lsat_200310_2-G_2_12",
+    "question": "If \"Question Man\" is the third song performed at the festival, then each of the following could be true EXCEPT:",
+    "answer": "A",
+    "predicted_reasoning": "B) \"Question Man\" is performed on the keyboard.",
+    "predicted_answer": "B) \"Question Man\" is performed on the keyboard."
+  },
+  {
+    "id": "ar_lsat_200310_2-G_3_13",
+    "question": "Which one of the following could be a complete and accurate list of the members of the finance committee?",
+    "answer": "E",
+    "predicted_reasoning": "To determine which option could be a complete and accurate list of the members of the",
+    "predicted_answer": "To determine which option could be a complete and accurate list of the members of the"
+  },
+  {
+    "id": "ar_lsat_200310_2-G_3_14",
+    "question": "Which one of the following pairs of board members CANNOT both serve on the incentives committee?",
+    "answer": "C",
+    "predicted_reasoning": "A) Guzman and Hawking\n\nThis is because if Guzman serves on",
+    "predicted_answer": "A) Guzman and Hawking\n\nThis is because if Guzman serves on"
+  },
+  {
+    "id": "ar_lsat_200310_2-G_3_15",
+    "question": "What is the maximum number of members on the finance committee?",
+    "answer": "C",
+    "predicted_reasoning": "C) four",
+    "predicted_answer": "C) four"
+  },
+  {
+    "id": "ar_lsat_200310_2-G_3_16",
+    "question": "If Miyauchi and Wharton both serve on the finance committee, then which one of the following could be true?",
+    "answer": "D",
+    "predicted_reasoning": "To solve this problem, we need to analyze the implications of the conditions given in",
+    "predicted_answer": "To solve this problem, we need to analyze the implications of the conditions given in"
+  },
+  {
+    "id": "ar_lsat_200310_2-G_3_17",
+    "question": "If Guzman serves on the incentives committee, then which one of the following must be true?",
+    "answer": "B",
+    "predicted_reasoning": "A) Hawking serves on the finance committee.",
+    "predicted_answer": "A) Hawking serves on the finance committee."
+  },
+  {
+    "id": "ar_lsat_200310_2-G_4_18",
+    "question": "Which one of the following could be the order in which four of the people are seated, with no one else seated between them, counting clockwise around the table?",
+    "answer": "C",
+    "predicted_reasoning": "To determine which order could be the seating arrangement around the table, we need to",
+    "predicted_answer": "To determine which order could be the seating arrangement around the table, we need to"
+  },
+  {
+    "id": "ar_lsat_200310_2-G_4_19",
+    "question": "If Harriet and Olivia each sits immediately next to George, then which one of the following could be the two people each of whom sits immediately next to Peter?",
+    "answer": "D",
+    "predicted_reasoning": "To solve the problem, we need to analyze the seating arrangement based on the given",
+    "predicted_answer": "To solve the problem, we need to analyze the seating arrangement based on the given"
+  },
+  {
+    "id": "ar_lsat_200310_2-G_4_20",
+    "question": "If George does not sit immediately next to Harriet, then which one of the following could be the two people each of whom sits immediately next to Manuel?",
+    "answer": "A",
+    "predicted_reasoning": "To solve the problem, we need to analyze the seating arrangement based on the given",
+    "predicted_answer": "To solve the problem, we need to analyze the seating arrangement based on the given"
+  },
+  {
+    "id": "ar_lsat_200310_2-G_4_21",
+    "question": "If Manuel sits immediately next to Olivia, then which one of the following people must sit immediately next to Fiona?",
+    "answer": "C",
+    "predicted_reasoning": "To solve the problem, we need to analyze the seating arrangement based on the given",
+    "predicted_answer": "To solve the problem, we need to analyze the seating arrangement based on the given"
+  },
+  {
+    "id": "ar_lsat_200310_2-G_4_22",
+    "question": "What is the minimum possible number of people sitting between Ingrid and Manuel, counting clockwise from Ingrid around the table?",
+    "answer": "A",
+    "predicted_reasoning": "To solve the problem, we need to analyze the seating arrangement based on the given",
+    "predicted_answer": "To solve the problem, we need to analyze the seating arrangement based on the given"
+  },
+  {
+    "id": "ar_lsat_200310_2-G_4_23",
+    "question": "If Karl sits directly across from Ingrid, then each of the following people could sit immediately next to Olivia EXCEPT:",
+    "answer": "B",
+    "predicted_reasoning": "C) Harriet",
+    "predicted_answer": "C) Harriet"
+  },
+  {
+    "id": "ar_lsat_200310_2-G_4_24",
+    "question": "If Karl sits directly across from Harriet, then what is the minimum possible number of people sitting between George and Karl, counting clockwise from George to Karl?",
+    "answer": "C",
+    "predicted_reasoning": "To solve the problem, we need to analyze the seating arrangement based on the given",
+    "predicted_answer": "To solve the problem, we need to analyze the seating arrangement based on the given"
+  },
+  {
+    "id": "ar_lsat_201106_2-G_1_1",
+    "question": "Which one of the following is an acceptable set of appointments of candidates to courts?",
+    "answer": "E",
+    "predicted_reasoning": "To determine which option is an acceptable set of appointments of candidates to courts, we",
+    "predicted_answer": "To determine which option is an acceptable set of appointments of candidates to courts, we"
+  },
+  {
+    "id": "ar_lsat_201106_2-G_1_2",
+    "question": "Which one of the following CANNOT be true?",
+    "answer": "B",
+    "predicted_reasoning": "C) Ortiz and Perkins are both appointed to the appellate court. \n\nThis option",
+    "predicted_answer": "C) Ortiz and Perkins are both appointed to the appellate court. \n\nThis option"
+  },
+  {
+    "id": "ar_lsat_201106_2-G_1_3",
+    "question": "Which one of the following CANNOT be true?",
+    "answer": "A",
+    "predicted_reasoning": "D) McDonnell and Perkins are both appointed to the appellate court.",
+    "predicted_answer": "D) McDonnell and Perkins are both appointed to the appellate court."
+  },
+  {
+    "id": "ar_lsat_201106_2-G_1_4",
+    "question": "If Ortiz is appointed to the appellate court, which one of the following must be true?",
+    "answer": "C",
+    "predicted_reasoning": "C) Jefferson is appointed to the trial court. \n\nExplanation: If Ortiz is",
+    "predicted_answer": "C) Jefferson is appointed to the trial court. \n\nExplanation: If Ortiz is"
+  },
+  {
+    "id": "ar_lsat_201106_2-G_1_5",
+    "question": "Which one of the following, if substituted for the condition that Hamadi cannot be appointed to the same court as Perkins, would have the same effect on the appointments of the seven candidates?",
+    "answer": "E",
+    "predicted_reasoning": "A) Hamadi and Perkins cannot both be appointed to the appellate court.",
+    "predicted_answer": "A) Hamadi and Perkins cannot both be appointed to the appellate court."
+  },
+  {
+    "id": "ar_lsat_201106_2-G_2_6",
+    "question": "Which one of the following could be an accurate list of the members in the order in which they dive from the plane, from first to last?",
+    "answer": "B",
+    "predicted_reasoning": "A) Larue, Trevino, Ohba, Zacny, Pei",
+    "predicted_answer": "A) Larue, Trevino, Ohba, Zacny, Pei"
+  },
+  {
+    "id": "ar_lsat_201106_2-G_2_7",
+    "question": "Which one of the following must be true?",
+    "answer": "D",
+    "predicted_reasoning": "To determine which statement must be true based on the given conditions, let's analyze the",
+    "predicted_answer": "To determine which statement must be true based on the given conditions, let's analyze the"
+  },
+  {
+    "id": "ar_lsat_201106_2-G_2_8",
+    "question": "If Larue dives from the plane last, then each of the following could be true EXCEPT:",
+    "answer": "C",
+    "predicted_reasoning": "B) Weiss dives from the plane fourth.",
+    "predicted_answer": "B) Weiss dives from the plane fourth."
+  },
+  {
+    "id": "ar_lsat_201106_2-G_2_9",
+    "question": "If Zacny dives from the plane immediately after Weiss, then which one of the following must be false?",
+    "answer": "D",
+    "predicted_reasoning": "To solve this problem, we need to analyze the conditions given and determine which option",
+    "predicted_answer": "To solve this problem, we need to analyze the conditions given and determine which option"
+  },
+  {
+    "id": "ar_lsat_201106_2-G_2_10",
+    "question": "If Trevino dives from the plane immediately after Larue, then each of the following could be true EXCEPT:",
+    "answer": "A",
+    "predicted_reasoning": "B) Weiss dives from the plane third.",
+    "predicted_answer": "B) Weiss dives from the plane third."
+  },
+  {
+    "id": "ar_lsat_201106_2-G_3_11",
+    "question": "Which one of the following could be the order in which the vehicles are serviced, from Monday through Saturday?",
+    "answer": "B",
+    "predicted_reasoning": "To determine which order of servicing the vehicles could be valid based on the given conditions",
+    "predicted_answer": "To determine which order of servicing the vehicles could be valid based on the given conditions"
+  },
+  {
+    "id": "ar_lsat_201106_2-G_3_12",
+    "question": "Which one of the following CANNOT be the vehicle serviced on Thursday?",
+    "answer": "E",
+    "predicted_reasoning": "To determine which vehicle cannot be serviced on Thursday, we need to analyze the conditions",
+    "predicted_answer": "To determine which vehicle cannot be serviced on Thursday, we need to analyze the conditions"
+  },
+  {
+    "id": "ar_lsat_201106_2-G_3_13",
+    "question": "If neither the pickup nor the limousine is serviced on Monday, then which one of the following must be true?",
+    "answer": "C",
+    "predicted_reasoning": "To determine which option must be true given the conditions, let's analyze the provided information",
+    "predicted_answer": "To determine which option must be true given the conditions, let's analyze the provided information"
+  },
+  {
+    "id": "ar_lsat_201106_2-G_3_14",
+    "question": "If the limousine is not serviced on Saturday, then each of the following could be true EXCEPT:",
+    "answer": "E",
+    "predicted_reasoning": "To determine which option could NOT be true if the limousine is not serviced on Saturday",
+    "predicted_answer": "To determine which option could NOT be true if the limousine is not serviced on Saturday"
+  },
+  {
+    "id": "ar_lsat_201106_2-G_3_15",
+    "question": "If the sedan is serviced earlier in the week than the pickup, then which one of the following could be true?",
+    "answer": "A",
+    "predicted_reasoning": "To solve this problem, we need to analyze the conditions given in the context and",
+    "predicted_answer": "To solve this problem, we need to analyze the conditions given in the context and"
+  },
+  {
+    "id": "ar_lsat_201106_2-G_3_16",
+    "question": "If the limousine is serviced on Saturday, then which one of the following must be true?",
+    "answer": "B",
+    "predicted_reasoning": "To solve this problem, we need to analyze the conditions given and see what must",
+    "predicted_answer": "To solve this problem, we need to analyze the conditions given and see what must"
+  },
+  {
+    "id": "ar_lsat_201106_2-G_3_17",
+    "question": "Which one of the following could be the list of the vehicles serviced on Tuesday, Wednesday, and Friday, listed in that order?",
+    "answer": "B",
+    "predicted_reasoning": "To determine which option could be the list of vehicles serviced on Tuesday, Wednesday,",
+    "predicted_answer": "To determine which option could be the list of vehicles serviced on Tuesday, Wednesday,"
+  },
+  {
+    "id": "ar_lsat_201106_2-G_4_18",
+    "question": "If there are exactly two white balls, then which one of the following boxes could contain a green ball?",
+    "answer": "B",
+    "predicted_reasoning": "To determine which box could contain a green ball given the conditions, let's analyze the",
+    "predicted_answer": "To determine which box could contain a green ball given the conditions, let's analyze the"
+  },
+  {
+    "id": "ar_lsat_201106_2-G_4_19",
+    "question": "If there are green balls in boxes 5 and 6, then which one of the following could be true?",
+    "answer": "C",
+    "predicted_reasoning": "To solve this problem, we need to analyze the conditions given and see which option",
+    "predicted_answer": "To solve this problem, we need to analyze the conditions given and see which option"
+  },
+  {
+    "id": "ar_lsat_201106_2-G_4_20",
+    "question": "The ball in which one of the following boxes must be the same color as at least one of the other balls?",
+    "answer": "E",
+    "predicted_reasoning": "To determine which box must contain a ball that is the same color as at least",
+    "predicted_answer": "To determine which box must contain a ball that is the same color as at least"
+  },
+  {
+    "id": "ar_lsat_201106_2-G_4_21",
+    "question": "Which one of the following must be true?",
+    "answer": "A",
+    "predicted_reasoning": "A) There is a green ball in a box that is lower than box",
+    "predicted_answer": "A) There is a green ball in a box that is lower than box"
+  },
+  {
+    "id": "ar_lsat_201106_2-G_4_22",
+    "question": "If there are red balls in boxes 2 and 3, then which one of the following could be true?",
+    "answer": "C",
+    "predicted_reasoning": "To solve this problem, we need to analyze the conditions given and see which option",
+    "predicted_answer": "To solve this problem, we need to analyze the conditions given and see which option"
+  },
+  {
+    "id": "ar_lsat_201106_2-G_4_23",
+    "question": "If boxes 2, 3, and 4 all contain balls that are the same color as each other, then which one of the following must be true?",
+    "answer": "D",
+    "predicted_reasoning": "To solve this problem, we need to analyze the conditions given and the implications of",
+    "predicted_answer": "To solve this problem, we need to analyze the conditions given and the implications of"
+  },
+  {
+    "id": "ar_lsat_201112_2-G_1_1",
+    "question": "Which one of the following could be the order, from first to last, in which the students perform?",
+    "answer": "D",
+    "predicted_reasoning": "C) Ginny, Kevin, Hakim, Juanita, Fernando\n\nThis",
+    "predicted_answer": "C) Ginny, Kevin, Hakim, Juanita, Fernando\n\nThis"
+  },
+  {
+    "id": "ar_lsat_201112_2-G_1_2",
+    "question": "If Juanita performs earlier than Ginny, then which one of the following could be true?",
+    "answer": "A",
+    "predicted_reasoning": "To solve the problem, we need to analyze the constraints given and see which option",
+    "predicted_answer": "To solve the problem, we need to analyze the constraints given and see which option"
+  },
+  {
+    "id": "ar_lsat_201112_2-G_1_3",
+    "question": "Which one of the following CANNOT be true?",
+    "answer": "C",
+    "predicted_reasoning": "C) Hakim performs immediately before Ginny.",
+    "predicted_answer": "C) Hakim performs immediately before Ginny."
+  },
+  {
+    "id": "ar_lsat_201112_2-G_1_4",
+    "question": "The order in which the students perform is fully determined if which one of the following is true?",
+    "answer": "E",
+    "predicted_reasoning": "To determine the order in which the students perform based on the given constraints, let's",
+    "predicted_answer": "To determine the order in which the students perform based on the given constraints, let's"
+  },
+  {
+    "id": "ar_lsat_201112_2-G_1_5",
+    "question": "How many of the students are there any one of whom could perform fourth?",
+    "answer": "B",
+    "predicted_reasoning": "To determine how many students could potentially perform fourth in the recital, we need to",
+    "predicted_answer": "To determine how many students could potentially perform fourth in the recital, we need to"
+  },
+  {
+    "id": "ar_lsat_201112_2-G_2_6",
+    "question": "Which one of the following could be the order of the presentations, from first to sixth?",
+    "answer": "C",
+    "predicted_reasoning": "C) stenciling, origami, textile making, woodworking, needlework",
+    "predicted_answer": "C) stenciling, origami, textile making, woodworking, needlework"
+  },
+  {
+    "id": "ar_lsat_201112_2-G_2_7",
+    "question": "If textile making is presented fifth, which one of the following could be true?",
+    "answer": "D",
+    "predicted_reasoning": "To solve this problem, we need to analyze the conditions given and see which option",
+    "predicted_answer": "To solve this problem, we need to analyze the conditions given and see which option"
+  },
+  {
+    "id": "ar_lsat_201112_2-G_2_8",
+    "question": "If needlework is presented first, which one of the following could be true?",
+    "answer": "E",
+    "predicted_reasoning": "C) Stenciling is presented third.",
+    "predicted_answer": "C) Stenciling is presented third."
+  },
+  {
+    "id": "ar_lsat_201112_2-G_2_9",
+    "question": "Jiang CANNOT give both",
+    "answer": "B",
+    "predicted_reasoning": "To determine which option Jiang CANNOT give both presentations, we need to analyze the",
+    "predicted_answer": "To determine which option Jiang CANNOT give both presentations, we need to analyze the"
+  },
+  {
+    "id": "ar_lsat_201112_2-G_2_10",
+    "question": "If needlework is presented sixth, which one of the following must be true?",
+    "answer": "B",
+    "predicted_reasoning": "C) Stenciling is presented third.",
+    "predicted_answer": "C) Stenciling is presented third."
+  },
+  {
+    "id": "ar_lsat_201112_2-G_2_11",
+    "question": "Which one of the following CANNOT be the subject of the second presentation?",
+    "answer": "C",
+    "predicted_reasoning": "B) origami",
+    "predicted_answer": "B) origami"
+  },
+  {
+    "id": "ar_lsat_201112_2-G_3_12",
+    "question": "Which one of the following is a list of foods that could be the foods selected?",
+    "answer": "B",
+    "predicted_reasoning": "To determine which list of foods could be selected based on the given requirements, let's",
+    "predicted_answer": "To determine which list of foods could be selected based on the given requirements, let's"
+  },
+  {
+    "id": "ar_lsat_201112_2-G_3_13",
+    "question": "Which one of the following is a pair of foods of which the organizer of the luncheon must select at least one?",
+    "answer": "D",
+    "predicted_reasoning": "B) G, O",
+    "predicted_answer": "B) G, O"
+  },
+  {
+    "id": "ar_lsat_201112_2-G_3_14",
+    "question": "If O is the only main course selected, then which one of the following CANNOT be selected?",
+    "answer": "E",
+    "predicted_reasoning": "To determine which food cannot be selected if O is the only main course selected,",
+    "predicted_answer": "To determine which food cannot be selected if O is the only main course selected,"
+  },
+  {
+    "id": "ar_lsat_201112_2-G_3_15",
+    "question": "If F is not selected, which one of the following could be true?",
+    "answer": "D",
+    "predicted_reasoning": "To determine which option could be true if F is not selected, we need to",
+    "predicted_answer": "To determine which option could be true if F is not selected, we need to"
+  },
+  {
+    "id": "ar_lsat_201112_2-G_3_16",
+    "question": "If T and V are the only side dishes selected, then which one of the following is a pair of foods each of which must be selected?",
+    "answer": "A",
+    "predicted_reasoning": "To determine which pair of foods must be selected if T and V are the only",
+    "predicted_answer": "To determine which pair of foods must be selected if T and V are the only"
+  },
+  {
+    "id": "ar_lsat_201112_2-G_4_17",
+    "question": "Which one of the following could be the order in which the programs are shown, from earliest to latest?",
+    "answer": "B",
+    "predicted_reasoning": "A) Generations, Roamin', Waterloo, Terry, Sundown\n\nThis",
+    "predicted_answer": "A) Generations, Roamin', Waterloo, Terry, Sundown\n\nThis"
+  },
+  {
+    "id": "ar_lsat_201112_2-G_4_18",
+    "question": "If Waterloo is the first program, then how many orders are there in which the remaining programs could be shown?",
+    "answer": "B",
+    "predicted_reasoning": "To determine how many orders the remaining programs could be shown if Waterloo is the first",
+    "predicted_answer": "To determine how many orders the remaining programs could be shown if Waterloo is the first"
+  },
+  {
+    "id": "ar_lsat_201112_2-G_4_19",
+    "question": "If Roamin' is the second program, then each of the following could be true EXCEPT:",
+    "answer": "D",
+    "predicted_reasoning": "C) Terry is the fifth program.",
+    "predicted_answer": "C) Terry is the fifth program."
+  },
+  {
+    "id": "ar_lsat_201112_2-G_4_20",
+    "question": "If Sundown is the third program, then which one of the following must be true?",
+    "answer": "E",
+    "predicted_reasoning": "To solve the problem, let's analyze the constraints given in the context:\n\n1.",
+    "predicted_answer": "To solve the problem, let's analyze the constraints given in the context:\n\n1."
+  },
+  {
+    "id": "ar_lsat_201112_2-G_4_21",
+    "question": "If Generations is the third program, then which one of the following could be true?",
+    "answer": "C",
+    "predicted_reasoning": "To solve the problem, let's first outline the constraints and the implications of the scheduling",
+    "predicted_answer": "To solve the problem, let's first outline the constraints and the implications of the scheduling"
+  },
+  {
+    "id": "ar_lsat_201112_2-G_4_22",
+    "question": "Which one of the following CANNOT be true?",
+    "answer": "B",
+    "predicted_reasoning": "To determine which option cannot be true based on the given constraints, let's analyze the",
+    "predicted_answer": "To determine which option cannot be true based on the given constraints, let's analyze the"
+  },
+  {
+    "id": "ar_lsat_201112_2-G_4_23",
+    "question": "Which one of the following, if substituted for the constraint that Generations starts on the hour rather than the half hour, would have the same effect in determining the order in which the programs are shown?",
+    "answer": "C",
+    "predicted_reasoning": "B) Generations is either the first program or the fifth.",
+    "predicted_answer": "B) Generations is either the first program or the fifth."
+  },
+  {
+    "id": "ar_lsat_201210_3-G_1_1",
+    "question": "Which one of the following could be a list of the majors of Manolo, Nadia, Owen, Peng, and Rana, respectively?",
+    "answer": "C",
+    "predicted_reasoning": "To solve the problem, we need to analyze the conditions given in the context and",
+    "predicted_answer": "To solve the problem, we need to analyze the conditions given in the context and"
+  },
+  {
+    "id": "ar_lsat_201210_3-G_1_2",
+    "question": "If Peng speaks on friendship, then which one of the following could be true?",
+    "answer": "D",
+    "predicted_reasoning": "To solve the problem, let's analyze the given conditions and the implications of Peng speaking",
+    "predicted_answer": "To solve the problem, let's analyze the given conditions and the implications of Peng speaking"
+  },
+  {
+    "id": "ar_lsat_201210_3-G_1_3",
+    "question": "If Owen is a geology major who speaks on friendship, then which one of the following must be true?",
+    "answer": "A",
+    "predicted_reasoning": "D) Peng is a history major.",
+    "predicted_answer": "D) Peng is a history major."
+  },
+  {
+    "id": "ar_lsat_201210_3-G_1_4",
+    "question": "If Nadia speaks on friendship, then which one of the following must be false?",
+    "answer": "A",
+    "predicted_reasoning": "B) Manolo is a history major.",
+    "predicted_answer": "B) Manolo is a history major."
+  },
+  {
+    "id": "ar_lsat_201210_3-G_1_5",
+    "question": "Rana must be a journalism major if which one of the following is true?",
+    "answer": "C",
+    "predicted_reasoning": "C) Owen is a geology major and Peng is a history major.",
+    "predicted_answer": "C) Owen is a geology major and Peng is a history major."
+  },
+  {
+    "id": "ar_lsat_201210_3-G_2_6",
+    "question": "Which one of the following could be the order in which the professors lecture, from first to last?",
+    "answer": "B",
+    "predicted_reasoning": "A) Powell, Young, Taylor, Shihab, Vaughan, Zabel",
+    "predicted_answer": "A) Powell, Young, Taylor, Shihab, Vaughan, Zabel"
+  },
+  {
+    "id": "ar_lsat_201210_3-G_2_7",
+    "question": "Which one of the following could lecture first?",
+    "answer": "B",
+    "predicted_reasoning": "To determine which professor could lecture first, we need to analyze the constraints provided in",
+    "predicted_answer": "To determine which professor could lecture first, we need to analyze the constraints provided in"
+  },
+  {
+    "id": "ar_lsat_201210_3-G_2_8",
+    "question": "Which one of the following CANNOT given the second guest lecture?",
+    "answer": "E",
+    "predicted_reasoning": "A) Powell",
+    "predicted_answer": "A) Powell"
+  },
+  {
+    "id": "ar_lsat_201210_3-G_2_9",
+    "question": "If Shihab lectures second and Zabel lectures fourth, then which one of the following could be true?",
+    "answer": "A",
+    "predicted_reasoning": "To solve the problem, we need to analyze the given conditions and see which option",
+    "predicted_answer": "To solve the problem, we need to analyze the given conditions and see which option"
+  },
+  {
+    "id": "ar_lsat_201210_3-G_2_10",
+    "question": "Which one of the following CANNOT be the guest lecture that Vaughan gives?",
+    "answer": "E",
+    "predicted_reasoning": "To determine which option cannot be the guest lecture that Vaughan gives, we need to",
+    "predicted_answer": "To determine which option cannot be the guest lecture that Vaughan gives, we need to"
+  },
+  {
+    "id": "ar_lsat_201210_3-G_2_11",
+    "question": "If Young lectures fourth and Taylor lectures first, then which one of the following must be true?",
+    "answer": "E",
+    "predicted_reasoning": "C) Vaughan lectures no later than third.",
+    "predicted_answer": "C) Vaughan lectures no later than third."
+  },
+  {
+    "id": "ar_lsat_201210_3-G_2_12",
+    "question": "If Zabel lectures fourth, then which one of the following could be true?",
+    "answer": "E",
+    "predicted_reasoning": "To determine which option could be true if Zabel lectures fourth, we need to",
+    "predicted_answer": "To determine which option could be true if Zabel lectures fourth, we need to"
+  },
+  {
+    "id": "ar_lsat_201210_3-G_3_13",
+    "question": "If aisle 1 contains Hobbies only, which one of the following could be true?",
+    "answer": "D",
+    "predicted_reasoning": "B) Music is located in aisle 2. \n\nHere's the reasoning:\n\n1",
+    "predicted_answer": "B) Music is located in aisle 2. \n\nHere's the reasoning:\n\n1"
+  },
+  {
+    "id": "ar_lsat_201210_3-G_3_14",
+    "question": "If aisle 3 contains Puzzles only, which one of the following must be true?",
+    "answer": "A",
+    "predicted_reasoning": "E) Science is located in aisle 2.",
+    "predicted_answer": "E) Science is located in aisle 2."
+  },
+  {
+    "id": "ar_lsat_201210_3-G_3_15",
+    "question": "If each aisle contains exactly two of the six sections, then Science must be located in the same aisle as",
+    "answer": "B",
+    "predicted_reasoning": "B) Hobbies",
+    "predicted_answer": "B) Hobbies"
+  },
+  {
+    "id": "ar_lsat_201210_3-G_3_16",
+    "question": "Which one of the following CANNOT be the list of the sections located in aisle 2?",
+    "answer": "A",
+    "predicted_reasoning": "C) Music, Science",
+    "predicted_answer": "C) Music, Science"
+  },
+  {
+    "id": "ar_lsat_201210_3-G_3_17",
+    "question": "If aisle 2 contains Science only, then each of the following must be true EXCEPT:",
+    "answer": "E",
+    "predicted_reasoning": "C) Music is located in aisle 3.",
+    "predicted_answer": "C) Music is located in aisle 3."
+  },
+  {
+    "id": "ar_lsat_201210_3-G_4_18",
+    "question": "Which one of the following is an allowable way of designating subzones within the three zones?",
+    "answer": "E",
+    "predicted_reasoning": "A) Z1: no designated subzones Z2: one housing subzone",
+    "predicted_answer": "A) Z1: no designated subzones Z2: one housing subzone"
+  },
+  {
+    "id": "ar_lsat_201210_3-G_4_19",
+    "question": "Which one of the following CANNOT be true within a single zone?",
+    "answer": "D",
+    "predicted_reasoning": "D) Four subzones are designated, none of them industrial.",
+    "predicted_answer": "D) Four subzones are designated, none of them industrial."
+  },
+  {
+    "id": "ar_lsat_201210_3-G_4_20",
+    "question": "What is the maximum number of designated subzones allowed in Z3?",
+    "answer": "D",
+    "predicted_reasoning": "B) 3",
+    "predicted_answer": "B) 3"
+  },
+  {
+    "id": "ar_lsat_201210_3-G_4_21",
+    "question": "If three subzones are designated for each use, then which one of the following is allowed?",
+    "answer": "B",
+    "predicted_reasoning": "A) Exactly one subzone in Z3 is designated for industrial use and exactly",
+    "predicted_answer": "A) Exactly one subzone in Z3 is designated for industrial use and exactly"
+  },
+  {
+    "id": "ar_lsat_201210_3-G_4_22",
+    "question": "If one subzone in each of the zones is designated for industrial use, then which one of the following is allowed?",
+    "answer": "A",
+    "predicted_reasoning": "B) A subzone in one of the zones is designated for housing.",
+    "predicted_answer": "B) A subzone in one of the zones is designated for housing."
+  },
+  {
+    "id": "ar_lsat_201210_3-G_4_23",
+    "question": "If three subzones in all are designated for retail use and a subzone in Z2 is designated for housing, then which one of the following is allowed?",
+    "answer": "A",
+    "predicted_reasoning": "To solve the problem, we need to analyze the given conditions and restrictions regarding the",
+    "predicted_answer": "To solve the problem, we need to analyze the given conditions and restrictions regarding the"
+  },
+  {
+    "id": "ar_lsat_201306_2-G_1_1",
+    "question": "Which one of the following could be the order in which the manuscripts were written, from first to last?",
+    "answer": "E",
+    "predicted_reasoning": "To determine the correct order of the manuscripts based on the given conditions, let's analyze",
+    "predicted_answer": "To determine the correct order of the manuscripts based on the given conditions, let's analyze"
+  },
+  {
+    "id": "ar_lsat_201306_2-G_1_2",
+    "question": "Which one of the following manuscripts CANNOT have been written third?",
+    "answer": "A",
+    "predicted_reasoning": "D) H",
+    "predicted_answer": "D) H"
+  },
+  {
+    "id": "ar_lsat_201306_2-G_1_3",
+    "question": "If H was the next manuscript written after M, which one of the following could be true?",
+    "answer": "E",
+    "predicted_reasoning": "To solve the problem, we need to analyze the given conditions and see how they",
+    "predicted_answer": "To solve the problem, we need to analyze the given conditions and see how they"
+  },
+  {
+    "id": "ar_lsat_201306_2-G_1_4",
+    "question": "Which one of the following manuscripts CANNOT have been written fourth?",
+    "answer": "D",
+    "predicted_reasoning": "C) H",
+    "predicted_answer": "C) H"
+  },
+  {
+    "id": "ar_lsat_201306_2-G_1_5",
+    "question": "If P was written earlier than H, then any of the following could be true EXCEPT:",
+    "answer": "D",
+    "predicted_reasoning": "C) H was written sixth.",
+    "predicted_answer": "C) H was written sixth."
+  },
+  {
+    "id": "ar_lsat_201306_2-G_2_6",
+    "question": "Which one of the following is an acceptable placement of dishes on the bottom, middle, and top shelves?",
+    "answer": "B",
+    "predicted_reasoning": "To determine which option is an acceptable placement of dishes on the shelves, we need",
+    "predicted_answer": "To determine which option is an acceptable placement of dishes on the shelves, we need"
+  },
+  {
+    "id": "ar_lsat_201306_2-G_2_7",
+    "question": "If dish 6 is the only dish stored on the bottom shelf, which one of the following could be the list of dishes that are stored together on the middle shelf?",
+    "answer": "E",
+    "predicted_reasoning": "To solve the problem, we need to analyze the conditions given and see which option",
+    "predicted_answer": "To solve the problem, we need to analyze the conditions given and see which option"
+  },
+  {
+    "id": "ar_lsat_201306_2-G_2_8",
+    "question": "If dish 1, dish 2, and dish 3 are stored on the same shelf as each other, which one of the following could be true?",
+    "answer": "C",
+    "predicted_reasoning": "To determine which option could be true given the conditions, let's analyze the situation step",
+    "predicted_answer": "To determine which option could be true given the conditions, let's analyze the situation step"
+  },
+  {
+    "id": "ar_lsat_201306_2-G_2_9",
+    "question": "If exactly one of the shelves has no dish stored on it, which one of the following must be true?",
+    "answer": "B",
+    "predicted_reasoning": "A) Exactly three of the dishes are stored on the bottom shelf.",
+    "predicted_answer": "A) Exactly three of the dishes are stored on the bottom shelf."
+  },
+  {
+    "id": "ar_lsat_201306_2-G_2_10",
+    "question": "If dish 5 is the only dish stored on the bottom shelf and if exactly two of the dishes are stored on the middle shelf, then which one of the following is a pair of dishes that must be among the dishes stored on the top shelf?",
+    "answer": "C",
+    "predicted_reasoning": "To solve the problem, let's analyze the given conditions step by step.\n\n1.",
+    "predicted_answer": "To solve the problem, let's analyze the given conditions step by step.\n\n1."
+  },
+  {
+    "id": "ar_lsat_201306_2-G_2_11",
+    "question": "If exactly one of the dishes is stored on the middle shelf, which one of the following could be the list of dishes stored on the top shelf?",
+    "answer": "A",
+    "predicted_reasoning": "To solve the problem, we need to analyze the conditions given for the storage of",
+    "predicted_answer": "To solve the problem, we need to analyze the conditions given for the storage of"
+  },
+  {
+    "id": "ar_lsat_201306_2-G_3_12",
+    "question": "Which one of the following could be the schedule of deliveries to the schools, from the first to the fourth?",
+    "answer": "A",
+    "predicted_reasoning": "To determine which option could be the schedule of deliveries to the schools, we need",
+    "predicted_answer": "To determine which option could be the schedule of deliveries to the schools, we need"
+  },
+  {
+    "id": "ar_lsat_201306_2-G_3_13",
+    "question": "If Hafford is the fourth school to which juices are delivered, which one of the following must be true?",
+    "answer": "D",
+    "predicted_reasoning": "To solve the problem, let's analyze the conditions given in the context:\n\n1.",
+    "predicted_answer": "To solve the problem, let's analyze the conditions given in the context:\n\n1."
+  },
+  {
+    "id": "ar_lsat_201306_2-G_3_14",
+    "question": "If Isley is the third school to which juices are delivered, which one of the following could be true?",
+    "answer": "C",
+    "predicted_reasoning": "To solve the problem, we need to analyze the conditions given in the context regarding",
+    "predicted_answer": "To solve the problem, we need to analyze the conditions given in the context regarding"
+  },
+  {
+    "id": "ar_lsat_201306_2-G_3_15",
+    "question": "If Isley is the first school to which snacks are delivered, which one of the following could be true?",
+    "answer": "A",
+    "predicted_reasoning": "To solve the problem, we need to analyze the conditions given in the context and",
+    "predicted_answer": "To solve the problem, we need to analyze the conditions given in the context and"
+  },
+  {
+    "id": "ar_lsat_201306_2-G_3_16",
+    "question": "Which one of the following could be true?",
+    "answer": "D",
+    "predicted_reasoning": "To determine which option could be true based on the given conditions, let's summarize the",
+    "predicted_answer": "To determine which option could be true based on the given conditions, let's summarize the"
+  },
+  {
+    "id": "ar_lsat_201306_2-G_3_17",
+    "question": "Which one of the following, if substituted for the condition that Gladstone cannot be the fourth school to which juices are delivered, would have the same effect in determining the delivery schedule?",
+    "answer": "B",
+    "predicted_reasoning": "B) Gladstone must be either the second school or the third school to which",
+    "predicted_answer": "B) Gladstone must be either the second school or the third school to which"
+  },
+  {
+    "id": "ar_lsat_201306_2-G_4_18",
+    "question": "Which one of the following could be the assignment of paralegals to cases?",
+    "answer": "D",
+    "predicted_reasoning": "To determine which option could be the assignment of paralegals to cases,",
+    "predicted_answer": "To determine which option could be the assignment of paralegals to cases,"
+  },
+  {
+    "id": "ar_lsat_201306_2-G_4_19",
+    "question": "Which one of the following CANNOT be the complete assignment of paralegals to the Sicoli case?",
+    "answer": "E",
+    "predicted_reasoning": "C) Gina, Hiro, Kevin",
+    "predicted_answer": "C) Gina, Hiro, Kevin"
+  },
+  {
+    "id": "ar_lsat_201306_2-G_4_20",
+    "question": "If exactly two of the paralegals are assigned to the Thompson case, then which one of the following could be the complete assignment of paralegals to the Raimes case?",
+    "answer": "A",
+    "predicted_reasoning": "A) Gina",
+    "predicted_answer": "A) Gina"
+  },
+  {
+    "id": "ar_lsat_201306_2-G_4_21",
+    "question": "If one of the cases has Gina and Laurie as the only paralegals assigned to it, then each of the following must be false EXCEPT:",
+    "answer": "C",
+    "predicted_reasoning": "To solve the problem, we need to analyze the conditions given in the context and",
+    "predicted_answer": "To solve the problem, we need to analyze the conditions given in the context and"
+  },
+  {
+    "id": "ar_lsat_201306_2-G_4_22",
+    "question": "Which one of the following CANNOT be the complete assignment of paralegals to the Thompson case?",
+    "answer": "D",
+    "predicted_reasoning": "To determine which option cannot be the complete assignment of paralegals to the",
+    "predicted_answer": "To determine which option cannot be the complete assignment of paralegals to the"
+  },
+  {
+    "id": "ar_lsat_201306_2-G_4_23",
+    "question": "If Kevin is the sole paralegal assigned to one of the cases then which one of the following lists all of the paralegals any one of",
+    "answer": "B",
+    "predicted_reasoning": "To solve the problem, we need to analyze the conditions given in the context and",
+    "predicted_answer": "To solve the problem, we need to analyze the conditions given in the context and"
+  },
+  {
+    "id": "ar_lsat_201409_3-G_1_1",
+    "question": "The five pieces could appear in which one of the following sequences on the CD, in order from first to last?",
+    "answer": "B",
+    "predicted_reasoning": "To determine which sequence of the five pieces satisfies all the given constraints, let's analyze",
+    "predicted_answer": "To determine which sequence of the five pieces satisfies all the given constraints, let's analyze"
+  },
+  {
+    "id": "ar_lsat_201409_3-G_1_2",
+    "question": "If Salammbo is the fourth piece on the CD, then which one of the following must be true?",
+    "answer": "C",
+    "predicted_reasoning": "To solve the problem, we need to analyze the constraints given in the context and",
+    "predicted_answer": "To solve the problem, we need to analyze the constraints given in the context and"
+  },
+  {
+    "id": "ar_lsat_201409_3-G_1_3",
+    "question": "If Reciprocity is the first piece on the CD, then which one of the following could be true?",
+    "answer": "B",
+    "predicted_reasoning": "To solve this problem, we need to analyze the constraints given in the context and",
+    "predicted_answer": "To solve this problem, we need to analyze the constraints given in the context and"
+  },
+  {
+    "id": "ar_lsat_201409_3-G_1_4",
+    "question": "If Trapezoid is the second piece on the CD, then which one of the following could be true?",
+    "answer": "E",
+    "predicted_reasoning": "To determine which option could be true if Trapezoid is the second piece",
+    "predicted_answer": "To determine which option could be true if Trapezoid is the second piece"
+  },
+  {
+    "id": "ar_lsat_201409_3-G_1_5",
+    "question": "The first and second pieces on the CD, listed in order, could be",
+    "answer": "E",
+    "predicted_reasoning": "To determine which pieces could be the first and second on the CD, we need",
+    "predicted_answer": "To determine which pieces could be the first and second on the CD, we need"
+  },
+  {
+    "id": "ar_lsat_201409_3-G_1_6",
+    "question": "If Vancouver is the second piece on the CD, then which one of the following could be true?",
+    "answer": "D",
+    "predicted_reasoning": "To solve this problem, we need to analyze the constraints given in the context and",
+    "predicted_answer": "To solve this problem, we need to analyze the constraints given in the context and"
+  },
+  {
+    "id": "ar_lsat_201409_3-G_1_7",
+    "question": "If Wisteria is the first piece on the CD, then which one of the following CANNOT be true?",
+    "answer": "A",
+    "predicted_reasoning": "To determine which option cannot be true if Wisteria is the first piece on",
+    "predicted_answer": "To determine which option cannot be true if Wisteria is the first piece on"
+  },
+  {
+    "id": "ar_lsat_201409_3-G_2_8",
+    "question": "Which one of the following could be the speeches given in each room, listed in the order in which they occur?",
+    "answer": "A",
+    "predicted_reasoning": "To determine which option could be the speeches given in each room, we need to",
+    "predicted_answer": "To determine which option could be the speeches given in each room, we need to"
+  },
+  {
+    "id": "ar_lsat_201409_3-G_2_9",
+    "question": "Which one of the following pairs of speeches CANNOT be given at the same time?",
+    "answer": "B",
+    "predicted_reasoning": "C) Molina's and Xiao's",
+    "predicted_answer": "C) Molina's and Xiao's"
+  },
+  {
+    "id": "ar_lsat_201409_3-G_2_10",
+    "question": "If Xiao's speech is at 3 P.M., which one of the following CANNOT be true?",
+    "answer": "A",
+    "predicted_reasoning": "To determine which option cannot be true if Xiao's speech is at 3 P",
+    "predicted_answer": "To determine which option cannot be true if Xiao's speech is at 3 P"
+  },
+  {
+    "id": "ar_lsat_201409_3-G_2_11",
+    "question": "Which one of the following could be a complete and accurate list of the speeches given in the Gold Room, in the order in which they occur?",
+    "answer": "C",
+    "predicted_reasoning": "To determine which option could be a complete and accurate list of the speeches given in",
+    "predicted_answer": "To determine which option could be a complete and accurate list of the speeches given in"
+  },
+  {
+    "id": "ar_lsat_201409_3-G_2_12",
+    "question": "If Yoshida's speech is at 1 P.M., which one of the following could be true?",
+    "answer": "C",
+    "predicted_reasoning": "To determine which option could be true if Yoshida's speech is at 1",
+    "predicted_answer": "To determine which option could be true if Yoshida's speech is at 1"
+  },
+  {
+    "id": "ar_lsat_201409_3-G_2_13",
+    "question": "Which one of the following, if substituted for the constraint that neither Xiao's speech nor Yoshida's speech can be earlier than Zimmerman's, would have the same effect in determining the schedule of speeches with regard to rooms and times?",
+    "answer": "E",
+    "predicted_reasoning": "C) Either Xiao's speech or Yoshida's speech must be after Zimmerman's",
+    "predicted_answer": "C) Either Xiao's speech or Yoshida's speech must be after Zimmerman's"
+  },
+  {
+    "id": "ar_lsat_201409_3-G_3_14",
+    "question": "Which one of the following could be an accurate matching of each family to the building or buildings it owned?",
+    "answer": "A",
+    "predicted_reasoning": "B) Trents: the granary, the mill Williamses: the inn",
+    "predicted_answer": "B) Trents: the granary, the mill Williamses: the inn"
+  },
+  {
+    "id": "ar_lsat_201409_3-G_3_15",
+    "question": "Which one of the following is a pair of buildings that CANNOT both have been owned by the Trents?",
+    "answer": "D",
+    "predicted_reasoning": "D) the inn, the mill",
+    "predicted_answer": "D) the inn, the mill"
+  },
+  {
+    "id": "ar_lsat_201409_3-G_3_16",
+    "question": "If the Yandells owned the mill, which one of the following must be true?",
+    "answer": "D",
+    "predicted_reasoning": "To solve the problem, let's analyze the given information step by step.\n\n1.",
+    "predicted_answer": "To solve the problem, let's analyze the given information step by step.\n\n1."
+  },
+  {
+    "id": "ar_lsat_201409_3-G_3_17",
+    "question": "If one of the families owned both the granary and the inn, which one of the following could be true?",
+    "answer": "B",
+    "predicted_reasoning": "To determine which option could be true if one of the families owned both the gran",
+    "predicted_answer": "To determine which option could be true if one of the families owned both the gran"
+  },
+  {
+    "id": "ar_lsat_201409_3-G_3_18",
+    "question": "If the Trents owned exactly one of the buildings, which one of the following is a complete and accurate list of the buildings any one of which could be the building that the Trents owned?",
+    "answer": "E",
+    "predicted_reasoning": "To determine which building the Trents could own if they owned exactly one building,",
+    "predicted_answer": "To determine which building the Trents could own if they owned exactly one building,"
+  },
+  {
+    "id": "ar_lsat_201409_3-G_4_19",
+    "question": "Which one of the following could be a complete and accurate list of the kinds of flowers in each of the bouquets?",
+    "answer": "A",
+    "predicted_reasoning": "To determine which option could be a complete and accurate list of the kinds of flowers",
+    "predicted_answer": "To determine which option could be a complete and accurate list of the kinds of flowers"
+  },
+  {
+    "id": "ar_lsat_201409_3-G_4_20",
+    "question": "If lilies are in bouquet 1, which one of the following must",
+    "answer": "B",
+    "predicted_reasoning": "C) Roses are in bouquet 2.",
+    "predicted_answer": "C) Roses are in bouquet 2."
+  },
+  {
+    "id": "ar_lsat_201409_3-G_4_21",
+    "question": "If tulips are in bouquet 1, which one of the following could be a complete and accurate list of the kinds of flowers in bouquet 2?",
+    "answer": "E",
+    "predicted_reasoning": "To determine which option could be a complete and accurate list of the kinds of flowers",
+    "predicted_answer": "To determine which option could be a complete and accurate list of the kinds of flowers"
+  },
+  {
+    "id": "ar_lsat_201409_3-G_4_22",
+    "question": "Which one of the following CANNOT be a complete and accurate list of the kinds of flowers in bouquet 2?",
+    "answer": "A",
+    "predicted_reasoning": "C) peonies, roses, snapdragons",
+    "predicted_answer": "C) peonies, roses, snapdragons"
+  },
+  {
+    "id": "ar_lsat_201409_3-G_4_23",
+    "question": "Which one of the following CANNOT be true?",
+    "answer": "C",
+    "predicted_reasoning": "C) Lilies, peonies, and roses are the only kinds of flowers",
+    "predicted_answer": "C) Lilies, peonies, and roses are the only kinds of flowers"
+  },
+  {
+    "id": "ar_lsat_201506_4-G_1_1",
+    "question": "Which one of the following is an allowable distribution of bonuses to the seven employees?",
+    "answer": "C",
+    "predicted_reasoning": "C) [Finance] Kimura: $1,000; Lopez: $",
+    "predicted_answer": "C) [Finance] Kimura: $1,000; Lopez: $"
+  },
+  {
+    "id": "ar_lsat_201506_4-G_1_2",
+    "question": "If Lopez does not receive the same bonus as Meng, which one of the following could be true?",
+    "answer": "B",
+    "predicted_reasoning": "B) Lopez receives a $3,000 bonus.",
+    "predicted_answer": "B) Lopez receives a $3,000 bonus."
+  },
+  {
+    "id": "ar_lsat_201506_4-G_1_3",
+    "question": "If only one of the employees receives a $1,000 bonus, which one of the following must be true?",
+    "answer": "E",
+    "predicted_reasoning": "C) Meng receives a $3,000 bonus.",
+    "predicted_answer": "C) Meng receives a $3,000 bonus."
+  },
+  {
+    "id": "ar_lsat_201506_4-G_1_4",
+    "question": "Which one of the following must be true?",
+    "answer": "E",
+    "predicted_reasoning": "C) At most three of the employees receives a $3,000 bonuses.",
+    "predicted_answer": "C) At most three of the employees receives a $3,000 bonuses."
+  },
+  {
+    "id": "ar_lsat_201506_4-G_1_5",
+    "question": "If exactly two of the employees receive $5,000 bonuses, which one of the following must be true?",
+    "answer": "D",
+    "predicted_reasoning": "C) Meng is one of the employees who receives a $5,000 bonus",
+    "predicted_answer": "C) Meng is one of the employees who receives a $5,000 bonus"
+  },
+  {
+    "id": "ar_lsat_201506_4-G_1_6",
+    "question": "Any of the following could be true of the seven employees EXCEPT:",
+    "answer": "B",
+    "predicted_reasoning": "B) More receive $1,000 bonuses than receive $3,000 bonuses",
+    "predicted_answer": "B) More receive $1,000 bonuses than receive $3,000 bonuses"
+  },
+  {
+    "id": "ar_lsat_201506_4-G_2_7",
+    "question": "Which one of the following could be the list of the trees that the landscaper plants on each of the lots today?",
+    "answer": "D",
+    "predicted_reasoning": "To determine which option could be the list of trees that the landscaper plants on",
+    "predicted_answer": "To determine which option could be the list of trees that the landscaper plants on"
+  },
+  {
+    "id": "ar_lsat_201506_4-G_2_8",
+    "question": "If the hickory is planted on lot 2, then which one of the following trees must be planted on lot 3?",
+    "answer": "B",
+    "predicted_reasoning": "To solve the problem, let's analyze the given conditions step by step.\n\n1.",
+    "predicted_answer": "To solve the problem, let's analyze the given conditions step by step.\n\n1."
+  },
+  {
+    "id": "ar_lsat_201506_4-G_2_9",
+    "question": "Which one of the following is a complete and accurate list of the trees any of which could be planted on lot 1?",
+    "answer": "C",
+    "predicted_reasoning": "To determine which trees could be planted on lot 1, we need to analyze",
+    "predicted_answer": "To determine which trees could be planted on lot 1, we need to analyze"
+  },
+  {
+    "id": "ar_lsat_201506_4-G_2_10",
+    "question": "If the walnut is planted on lot 3, then which one of the following could be true?",
+    "answer": "A",
+    "predicted_reasoning": "To solve the problem, we need to analyze the given conditions and see which option",
+    "predicted_answer": "To solve the problem, we need to analyze the given conditions and see which option"
+  },
+  {
+    "id": "ar_lsat_201506_4-G_2_11",
+    "question": "Where each of the trees is planted is completely determined if which one of the following trees is planted on lot 2?",
+    "answer": "A",
+    "predicted_reasoning": "D) the maple",
+    "predicted_answer": "D) the maple"
+  },
+  {
+    "id": "ar_lsat_201506_4-G_3_12",
+    "question": "Which one of the following is an acceptable schedule for the librarians, listed in order from Monday through Saturday?",
+    "answer": "A",
+    "predicted_reasoning": "To determine the correct option for the schedule of librarians, we need to analyze the",
+    "predicted_answer": "To determine the correct option for the schedule of librarians, we need to analyze the"
+  },
+  {
+    "id": "ar_lsat_201506_4-G_3_13",
+    "question": "Which one of the following CANNOT be on desk duty on Tuesday?",
+    "answer": "E",
+    "predicted_reasoning": "To determine which librarian cannot be on desk duty on Tuesday, we need to analyze",
+    "predicted_answer": "To determine which librarian cannot be on desk duty on Tuesday, we need to analyze"
+  },
+  {
+    "id": "ar_lsat_201506_4-G_3_14",
+    "question": "If Kitson is on desk duty earlier in the week than Moore, which one of the following CANNOT be true?",
+    "answer": "B",
+    "predicted_reasoning": "B) Gomez is on desk duty earlier in the week than Kitson.",
+    "predicted_answer": "B) Gomez is on desk duty earlier in the week than Kitson."
+  },
+  {
+    "id": "ar_lsat_201506_4-G_3_15",
+    "question": "If Zahn is on desk duty on Thursday, which one of the following must be true?",
+    "answer": "A",
+    "predicted_reasoning": "D) Hill is on desk duty earlier in the week than Zahn.",
+    "predicted_answer": "D) Hill is on desk duty earlier in the week than Zahn."
+  },
+  {
+    "id": "ar_lsat_201506_4-G_3_16",
+    "question": "If Moore is on desk duty on Tuesday, which one of the following must be true?",
+    "answer": "C",
+    "predicted_reasoning": "To determine which option must be true if Moore is on desk duty on Tuesday,",
+    "predicted_answer": "To determine which option must be true if Moore is on desk duty on Tuesday,"
+  },
+  {
+    "id": "ar_lsat_201506_4-G_3_17",
+    "question": "If Flynn is on desk duty earlier in the week than Hill, which one of the following must be true?",
+    "answer": "D",
+    "predicted_reasoning": "To determine which statement must be true if Flynn is on desk duty earlier in the",
+    "predicted_answer": "To determine which statement must be true if Flynn is on desk duty earlier in the"
+  },
+  {
+    "id": "ar_lsat_201506_4-G_3_18",
+    "question": "Which one of the following, if substituted for the constraint that Flynn must be on desk duty earlier in the week than both Kitson and Moore, would have the same effect in determining the schedule for the librarians?",
+    "answer": "C",
+    "predicted_reasoning": "D) Flynn must be on desk duty earlier in the week than both Gomez and",
+    "predicted_answer": "D) Flynn must be on desk duty earlier in the week than both Gomez and"
+  },
+  {
+    "id": "ar_lsat_201506_4-G_4_19",
+    "question": "Which one of the following is an allowable structure for an issue of the newsletter?",
+    "answer": "D",
+    "predicted_reasoning": "C) slots 1 and 2: a single industry feature; slots",
+    "predicted_answer": "C) slots 1 and 2: a single industry feature; slots"
+  },
+  {
+    "id": "ar_lsat_201506_4-G_4_20",
+    "question": "If an issue of the newsletter has no technology feature and if there is a finance feature that occupies both slots 4 and 5, then which one of the following is required for that issue?",
+    "answer": "A",
+    "predicted_reasoning": "A) A finance feature occupies slot 1.",
+    "predicted_answer": "A) A finance feature occupies slot 1."
+  },
+  {
+    "id": "ar_lsat_201506_4-G_4_21",
+    "question": "Which one of the following is NOT allowed for an issue of the newsletter?",
+    "answer": "E",
+    "predicted_reasoning": "E) Each feature except the feature occupying slot 5 is either an industry feature",
+    "predicted_answer": "E) Each feature except the feature occupying slot 5 is either an industry feature"
+  },
+  {
+    "id": "ar_lsat_201506_4-G_4_22",
+    "question": "If, in a particular issue of the newsletter, slot 1 is occupied by the only industry feature in that issue, then which one of the following is required for that issue?",
+    "answer": "D",
+    "predicted_reasoning": "C) There is a marketing feature that occupies one or more of slots 2",
+    "predicted_answer": "C) There is a marketing feature that occupies one or more of slots 2"
+  },
+  {
+    "id": "ar_lsat_201506_4-G_4_23",
+    "question": "Any of the following is allowed for an issue of the newsletter EXCEPT:",
+    "answer": "D",
+    "predicted_reasoning": "C) There is exactly one industry feature and no marketing or technology feature.",
+    "predicted_answer": "C) There is exactly one industry feature and no marketing or technology feature."
+  },
+  {
+    "id": "ar_lsat_201512_3-G_1_1",
+    "question": "Which one of the following could be the order, from first to last, in which the entertainers are scheduled to perform?",
+    "answer": "A",
+    "predicted_reasoning": "To determine which option could be the order of performances, we need to analyze the",
+    "predicted_answer": "To determine which option could be the order of performances, we need to analyze the"
+  },
+  {
+    "id": "ar_lsat_201512_3-G_1_2",
+    "question": "If Wu is scheduled to perform in the morning, then which one of the following could be true?",
+    "answer": "B",
+    "predicted_reasoning": "To solve the problem, let's analyze the constraints given in the context:\n\n1.",
+    "predicted_answer": "To solve the problem, let's analyze the constraints given in the context:\n\n1."
+  },
+  {
+    "id": "ar_lsat_201512_3-G_1_3",
+    "question": "Shahpari CANNOT be scheduled to perform at which one of the following times?",
+    "answer": "D",
+    "predicted_reasoning": "To determine when Shahpari cannot be scheduled to perform, we need to analyze the",
+    "predicted_answer": "To determine when Shahpari cannot be scheduled to perform, we need to analyze the"
+  },
+  {
+    "id": "ar_lsat_201512_3-G_1_4",
+    "question": "What is the earliest time that Wu could be scheduled to perform?",
+    "answer": "C",
+    "predicted_reasoning": "To determine the earliest time that Wu could be scheduled to perform, we need to",
+    "predicted_answer": "To determine the earliest time that Wu could be scheduled to perform, we need to"
+  },
+  {
+    "id": "ar_lsat_201512_3-G_1_5",
+    "question": "Which one of the following is a complete and accurate list of the entertainers who must be scheduled to perform in the afternoon?",
+    "answer": "C",
+    "predicted_reasoning": "A) Tigay",
+    "predicted_answer": "A) Tigay"
+  },
+  {
+    "id": "ar_lsat_201512_3-G_2_6",
+    "question": "Which one of the following could be the display of bowls, listed by potters name, in order from position 1 through position 6?",
+    "answer": "E",
+    "predicted_reasoning": "To determine which option could be the display of bowls, we need to analyze the",
+    "predicted_answer": "To determine which option could be the display of bowls, we need to analyze the"
+  },
+  {
+    "id": "ar_lsat_201512_3-G_2_7",
+    "question": "If Neiman's bowl and Park's bowl are both displayed, which one of the following is a potter whose bowl could be displayed in position 1?",
+    "answer": "D",
+    "predicted_reasoning": "C) Reigel\n\nExplanation:\nIf Neiman's bowl is displayed in",
+    "predicted_answer": "C) Reigel\n\nExplanation:\nIf Neiman's bowl is displayed in"
+  },
+  {
+    "id": "ar_lsat_201512_3-G_2_8",
+    "question": "If Larsen's bowl is displayed in position 6 and Olivera's bowl is displayed in position 2, which one of the following must be true?",
+    "answer": "C",
+    "predicted_reasoning": "To solve the problem, we need to analyze the given conditions and the implications of",
+    "predicted_answer": "To solve the problem, we need to analyze the given conditions and the implications of"
+  },
+  {
+    "id": "ar_lsat_201512_3-G_2_9",
+    "question": "If Park's bowl is displayed in position 4, then the bowl displayed in position 2 must be",
+    "answer": "A",
+    "predicted_reasoning": "To determine which bowl must be displayed in position 2 if Park's bowl is",
+    "predicted_answer": "To determine which bowl must be displayed in position 2 if Park's bowl is"
+  },
+  {
+    "id": "ar_lsat_201512_3-G_2_10",
+    "question": "If Larsen's bowl is displayed in position 1 and Olivera's bowl is displayed in position 4, which one of the following is a potter whose bowl CANNOT be displayed?",
+    "answer": "B",
+    "predicted_reasoning": "To determine which potter's bowl cannot be displayed given the conditions, let's analyze",
+    "predicted_answer": "To determine which potter's bowl cannot be displayed given the conditions, let's analyze"
+  },
+  {
+    "id": "ar_lsat_201512_3-G_2_11",
+    "question": "Which one of the following is a potter whose bowl must be displayed?",
+    "answer": "B",
+    "predicted_reasoning": "A) Neiman",
+    "predicted_answer": "A) Neiman"
+  },
+  {
+    "id": "ar_lsat_201512_3-G_2_12",
+    "question": "If Neiman's bowl, Park's bowl, and Reigel's bowl are all displayed, which one of the following must be true?",
+    "answer": "A",
+    "predicted_reasoning": "To determine which statement must be true if Neiman's bowl, Park's bowl",
+    "predicted_answer": "To determine which statement must be true if Neiman's bowl, Park's bowl"
+  },
+  {
+    "id": "ar_lsat_201512_3-G_3_13",
+    "question": "Which one of the following is a possible matching of employees with the offices they select?",
+    "answer": "B",
+    "predicted_reasoning": "To determine which option is a possible matching of employees with the offices they select,",
+    "predicted_answer": "To determine which option is a possible matching of employees with the offices they select,"
+  },
+  {
+    "id": "ar_lsat_201512_3-G_3_14",
+    "question": "Which one of the following must be true?",
+    "answer": "C",
+    "predicted_reasoning": "C) At least one of the employees selects the office he or she ranks first",
+    "predicted_answer": "C) At least one of the employees selects the office he or she ranks first"
+  },
+  {
+    "id": "ar_lsat_201512_3-G_3_15",
+    "question": "Which one of the following could be true?",
+    "answer": "A",
+    "predicted_reasoning": "To determine which option could be true based on the given context, we need to",
+    "predicted_answer": "To determine which option could be true based on the given context, we need to"
+  },
+  {
+    "id": "ar_lsat_201512_3-G_3_16",
+    "question": "If Paulson selects office W, then which one of the following could be true?",
+    "answer": "E",
+    "predicted_reasoning": "To determine which option could be true if Paulson selects office W, we need",
+    "predicted_answer": "To determine which option could be true if Paulson selects office W, we need"
+  },
+  {
+    "id": "ar_lsat_201512_3-G_3_17",
+    "question": "Which one of the following must be true?",
+    "answer": "E",
+    "predicted_reasoning": "To determine which statement must be true based on the given context, we need to",
+    "predicted_answer": "To determine which statement must be true based on the given context, we need to"
+  },
+  {
+    "id": "ar_lsat_201512_3-G_4_18",
+    "question": "Which one of the following could be the assignment of volunteers to Z?",
+    "answer": "E",
+    "predicted_reasoning": "To determine which assignment of volunteers to committee Z could be valid, we need to",
+    "predicted_answer": "To determine which assignment of volunteers to committee Z could be valid, we need to"
+  },
+  {
+    "id": "ar_lsat_201512_3-G_4_19",
+    "question": "If Kwon is assigned to be treasurer for exactly two of the committees, then any of the following could be true EXCEPT:",
+    "answer": "C",
+    "predicted_reasoning": "To determine which option cannot be true given the conditions, let's analyze the constraints:",
+    "predicted_answer": "To determine which option cannot be true given the conditions, let's analyze the constraints:"
+  },
+  {
+    "id": "ar_lsat_201512_3-G_4_20",
+    "question": "Each of the following must be true EXCEPT:",
+    "answer": "B",
+    "predicted_reasoning": "C) Kwon is assigned to X.",
+    "predicted_answer": "C) Kwon is assigned to X."
+  },
+  {
+    "id": "ar_lsat_201512_3-G_4_21",
+    "question": "If Kwon is assigned to be leader for exactly one of the committees, then for which of the committees is the assignment of volunteers to positions fully determined?",
+    "answer": "B",
+    "predicted_reasoning": "To determine which committee's assignment of volunteers to positions is fully determined if Kwon",
+    "predicted_answer": "To determine which committee's assignment of volunteers to positions is fully determined if Kwon"
+  },
+  {
+    "id": "ar_lsat_201512_3-G_4_22",
+    "question": "The assignment of volunteers to committees and positions is fully determined if which one of the following is true?",
+    "answer": "C",
+    "predicted_reasoning": "A) Haddad is assigned to be leader for exactly one of the committees.",
+    "predicted_answer": "A) Haddad is assigned to be leader for exactly one of the committees."
+  },
+  {
+    "id": "ar_lsat_201512_3-G_4_23",
+    "question": "Which one of the following, if substituted for the condition that Molina must be assigned to exactly one committee, would have the same effect in determining the assignment of volunteers to committees?",
+    "answer": "C",
+    "predicted_reasoning": "A) Haddad must be assigned to more committees than Molina.",
+    "predicted_answer": "A) Haddad must be assigned to more committees than Molina."
+  },
+  {
+    "id": "ar_lsat_201609_3-G_1_1",
+    "question": "The five neighborhoods visited by the bookmobile, listed in order from Monday through Friday, could be",
+    "answer": "B",
+    "predicted_reasoning": "To determine which neighborhoods could be visited by the bookmobile from Monday through Friday,",
+    "predicted_answer": "To determine which neighborhoods could be visited by the bookmobile from Monday through Friday,"
+  },
+  {
+    "id": "ar_lsat_201609_3-G_1_2",
+    "question": "Which one of the following neighborhoods CANNOT be visited on Thursday?",
+    "answer": "C",
+    "predicted_reasoning": "C) Oldtown",
+    "predicted_answer": "C) Oldtown"
+  },
+  {
+    "id": "ar_lsat_201609_3-G_1_3",
+    "question": "If Hidden Hills is visited on Monday, which one of the following must be true?",
+    "answer": "A",
+    "predicted_reasoning": "A) Lakeville is visited on Wednesday.",
+    "predicted_answer": "A) Lakeville is visited on Wednesday."
+  },
+  {
+    "id": "ar_lsat_201609_3-G_1_4",
+    "question": "If Hidden Hills is visited on Wednesday, which one of the following must be true?",
+    "answer": "B",
+    "predicted_reasoning": "B) Oldtown is visited on Tuesday.",
+    "predicted_answer": "B) Oldtown is visited on Tuesday."
+  },
+  {
+    "id": "ar_lsat_201609_3-G_1_5",
+    "question": "If Nottingham is visited on Thursday, which one of the following must be true?",
+    "answer": "D",
+    "predicted_reasoning": "To determine which statement must be true if Nottingham is visited on Thursday, let's analyze",
+    "predicted_answer": "To determine which statement must be true if Nottingham is visited on Thursday, let's analyze"
+  },
+  {
+    "id": "ar_lsat_201609_3-G_2_6",
+    "question": "Which one of the following is a permissible assignment of rangers to park areas?",
+    "answer": "E",
+    "predicted_reasoning": "To determine which option is a permissible assignment of rangers to park areas, we",
+    "predicted_answer": "To determine which option is a permissible assignment of rangers to park areas, we"
+  },
+  {
+    "id": "ar_lsat_201609_3-G_2_7",
+    "question": "If Olsen is the sole ranger assigned to area 2, then which one of the following could be the complete assignment of rangers to area 3?",
+    "answer": "C",
+    "predicted_reasoning": "To solve the problem, we need to analyze the conditions given in the context and",
+    "predicted_answer": "To solve the problem, we need to analyze the conditions given in the context and"
+  },
+  {
+    "id": "ar_lsat_201609_3-G_2_8",
+    "question": "If exactly one ranger is assigned to area 1, then which one of the following must be true?",
+    "answer": "D",
+    "predicted_reasoning": "A) Jefferson is assigned to area 1.",
+    "predicted_answer": "A) Jefferson is assigned to area 1."
+  },
+  {
+    "id": "ar_lsat_201609_3-G_2_9",
+    "question": "Which one of the following rangers CANNOT be assigned to area 3?",
+    "answer": "D",
+    "predicted_reasoning": "B) Olsen",
+    "predicted_answer": "B) Olsen"
+  },
+  {
+    "id": "ar_lsat_201609_3-G_2_10",
+    "question": "If Koguchi is assigned to area 2, then which one of the following could be true?",
+    "answer": "E",
+    "predicted_reasoning": "To solve this problem, we need to analyze the conditions given in the context and",
+    "predicted_answer": "To solve this problem, we need to analyze the conditions given in the context and"
+  },
+  {
+    "id": "ar_lsat_201609_3-G_2_11",
+    "question": "If Larson and Olsen are assigned to the same area, then which one of the following could be true?",
+    "answer": "B",
+    "predicted_reasoning": "To determine which option could be true if Larson and Olsen are assigned to the same",
+    "predicted_answer": "To determine which option could be true if Larson and Olsen are assigned to the same"
+  },
+  {
+    "id": "ar_lsat_201609_3-G_2_12",
+    "question": "If Jefferson is assigned to area 2, then which one of the following must be true?",
+    "answer": "A",
+    "predicted_reasoning": "A) Koguchi is assigned to area 1.",
+    "predicted_answer": "A) Koguchi is assigned to area 1."
+  },
+  {
+    "id": "ar_lsat_201609_3-G_3_13",
+    "question": "Which one of the following could be the complete assignment of assistants to Pricing?",
+    "answer": "A",
+    "predicted_reasoning": "A) Ramos, Yi, and Zane\n\nThis option could be a complete",
+    "predicted_answer": "A) Ramos, Yi, and Zane\n\nThis option could be a complete"
+  },
+  {
+    "id": "ar_lsat_201609_3-G_3_14",
+    "question": "Which one of the following CANNOT be the complete assignment of assistants to Labor?",
+    "answer": "B",
+    "predicted_reasoning": "E) Yi, Zane",
+    "predicted_answer": "E) Yi, Zane"
+  },
+  {
+    "id": "ar_lsat_201609_3-G_3_15",
+    "question": "Which one of the following could be true?",
+    "answer": "A",
+    "predicted_reasoning": "To determine which option could be true based on the given conditions, let's analyze the",
+    "predicted_answer": "To determine which option could be true based on the given conditions, let's analyze the"
+  },
+  {
+    "id": "ar_lsat_201609_3-G_3_16",
+    "question": "If Vogel is assigned to the same course as Zane, which one of the following CANNOT be true?",
+    "answer": "C",
+    "predicted_reasoning": "C) Taj is assigned to Markets.",
+    "predicted_answer": "C) Taj is assigned to Markets."
+  },
+  {
+    "id": "ar_lsat_201609_3-G_3_17",
+    "question": "If no other assistant is assigned to the same course as Ramos, which one of the following must be true?",
+    "answer": "D",
+    "predicted_reasoning": "C) Yi is assigned to Markets.",
+    "predicted_answer": "C) Yi is assigned to Markets."
+  },
+  {
+    "id": "ar_lsat_201609_3-G_4_18",
+    "question": "One possible route of the virus from the first computer in the network infected to Q is",
+    "answer": "D",
+    "predicted_reasoning": "To determine a possible route of the virus from the first infected computer to Q,",
+    "predicted_answer": "To determine a possible route of the virus from the first infected computer to Q,"
+  },
+  {
+    "id": "ar_lsat_201609_3-G_4_19",
+    "question": "Which one of the following could be the computer that was infected from outside the network?",
+    "answer": "E",
+    "predicted_reasoning": "To determine which computer could be the one that was infected from outside the network,",
+    "predicted_answer": "To determine which computer could be the one that was infected from outside the network,"
+  },
+  {
+    "id": "ar_lsat_201609_3-G_4_20",
+    "question": "If T did not transmit the virus to any other computer on the network, which one of the following must be true?",
+    "answer": "A",
+    "predicted_reasoning": "D) P did not transmit the virus to any other computer on the network.",
+    "predicted_answer": "D) P did not transmit the virus to any other computer on the network."
+  },
+  {
+    "id": "ar_lsat_201609_3-G_4_21",
+    "question": "Any of the following computers could have transmitted the virus to two other computers on the network EXCEPT:",
+    "answer": "C",
+    "predicted_reasoning": "B) Q",
+    "predicted_answer": "B) Q"
+  },
+  {
+    "id": "ar_lsat_201609_3-G_4_22",
+    "question": "The spread of the virus among the computers is completely determined if which one of the following is true?",
+    "answer": "C",
+    "predicted_reasoning": "B) T transmitted the virus to Q.",
+    "predicted_answer": "B) T transmitted the virus to Q."
+  },
+  {
+    "id": "ar_lsat_201609_3-G_4_23",
+    "question": "If P is the only computer that transmitted the virus to two other computers on the network, which one of the following must be true?",
+    "answer": "C",
+    "predicted_reasoning": "C) Q did not transmit the virus to any other computer on the network.",
+    "predicted_answer": "C) Q did not transmit the virus to any other computer on the network."
+  }
+]
