@@ -108,7 +108,7 @@ class OpenAIModel:
     def generate(self, input_string, temperature = 0.0):
         if self.model_name in ['text-davinci-002', 'code-davinci-002', 'text-davinci-003']:
             return self.prompt_generate(input_string, temperature)
-        elif self.model_name in ['gpt-4', 'gpt-3.5-turbo']:
+        elif self.model_name in ['gpt-4o-mini', 'gpt-3.5-turbo']:
             return self.chat_generate(input_string, temperature)
         else:
             raise Exception("Model name not recognized")
@@ -137,7 +137,7 @@ class OpenAIModel:
     def batch_generate(self, messages_list, temperature = 0.0):
         if self.model_name in ['text-davinci-002', 'code-davinci-002', 'text-davinci-003']:
             return self.batch_prompt_generate(messages_list, temperature)
-        elif self.model_name in ['gpt-4', 'gpt-3.5-turbo']:
+        elif self.model_name in ['gpt-4o', 'gpt-3.5-turbo']:
             return self.batch_chat_generate(messages_list, temperature)
         else:
             raise Exception("Model name not recognized")

@@ -112,7 +112,7 @@ class CSP_Program:
         return ans, err_msg
     
     def answer_mapping(self, answer):
-        self.option_pattern = r'^\w+\)'
+        self.option_pattern = r'^\(\w+\)'
         self.expression_pattern = r'\w+ == \d+'       
 
         variable_ans_map = defaultdict(set)
@@ -123,7 +123,9 @@ class CSP_Program:
         for option_str in self.Query:
             # Extract the option using regex
             option_match = re.match(self.option_pattern, option_str)
-            option = option_match.group().replace(')', '')
+            option = re.sub(r'[()]', '', option_match.group())
+
+            # option = option_match.group().replace(')', '')
             # Extract the expression using regex
             expression_match = re.search(self.expression_pattern, option_str)
             expression_str = expression_match.group()

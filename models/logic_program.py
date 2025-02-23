@@ -8,6 +8,7 @@ from typing import Dict, List, Tuple
 from utils import OpenAIModel
 import argparse
 
+FORMAT_PROMPT = " Provide the response in plain text without markdown formatting or headings and keep all characters in utf-8 encoding."
 class LogicProgramGenerator:
     def __init__(self, args):
         self.args = args
@@ -27,19 +28,19 @@ class LogicProgramGenerator:
     
     def load_prompt_templates(self):
         prompt_file = f'./models/prompts/{self.dataset_name}.txt'
-        if self.dataset_name == 'AR-LSAT' and self.model_name == 'gpt-4':
+        if self.dataset_name == 'AR-LSAT' and self.model_name == 'gpt-4o-mini':
             prompt_file = f'./models/prompts/{self.dataset_name}-long.txt'
-        with open(prompt_file, 'r') as f:
+        with open(prompt_file, 'r', encoding="utf-8") as f:
             self.prompt_template = f.read()
 
     def prompt_folio(self, test_data):
-        problem = test_data['context']
+        problem = test_data['context'] + FORMAT_PROMPT
         question = test_data['question'].strip()
         full_prompt = self.prompt_template.replace('[[PROBLEM]]', problem).replace('[[QUESTION]]', question)
         return full_prompt
 
     def prompt_arlsat(self, test_data):
-        problem = test_data['context']
+        problem = test_data['context'] + FORMAT_PROMPT
         question = test_data['question'].strip()
         choices_str = '\n'.join([f'({choice.strip()}' for choice in test_data['options']]).strip()
         full_prompt = self.prompt_template.replace('[[PROBLEM]]', problem).replace('[[QUESTION]]', question)
@@ -47,19 +48,19 @@ class LogicProgramGenerator:
         return full_prompt
     
     def prompt_prontoqa(self, test_data):
-        problem = test_data['context']
+        problem = test_data['context'] + FORMAT_PROMPT
         question = test_data['question'].strip()
         full_prompt = self.prompt_template.replace('[[PROBLEM]]', problem).replace('[[QUESTION]]', question)
         return full_prompt
     
     def prompt_proofwriter(self, test_data):
-        problem = test_data['context']
+        problem = test_data['context'] + FORMAT_PROMPT
         question = test_data['question'].strip()
         full_prompt = self.prompt_template.replace('[[PROBLEM]]', problem).replace('[[QUESTION]]', question)
         return full_prompt
     
     def prompt_logicaldeduction(self, test_data):
-        problem = test_data['context']
+        problem = test_data['context'] + FORMAT_PROMPT
         question = test_data['question'].strip()
         choices_str = '\n'.join([f'({choice.strip()}' for choice in test_data['options']]).strip()
         full_prompt = self.prompt_template.replace('[[PROBLEM]]', problem).replace('[[QUESTION]]', question)
@@ -67,7 +68,7 @@ class LogicProgramGenerator:
         return full_prompt
 
     def load_raw_dataset(self, split):
-        with open(os.path.join(self.data_path, self.dataset_name, f'{split}.json')) as f:
+        with open(os.path.join(self.data_path, self.dataset_name, f'{split}.json'), encoding="utf-8") as f:
             raw_dataset = json.load(f)
         return raw_dataset
 
@@ -126,7 +127,8 @@ class LogicProgramGenerator:
                             'options': sample['options'],
                             'raw_logic_programs': programs}
                     outputs.append(output)
-            except:
+            except Exception as e:
+                print(f"An error occurred: {e}")
                 # generate one by one if batch generation fails
                 for sample, full_prompt in zip(chunk, full_prompts):
                     try:
@@ -150,7 +152,7 @@ class LogicProgramGenerator:
         if not os.path.exists(self.save_path):
             os.makedirs(self.save_path)
         
-        with open(os.path.join(self.save_path, f'{self.dataset_name}_{self.split}_{self.model_name}.json'), 'w') as f:
+        with open(os.path.join(self.save_path, f'{self.dataset_name}_{self.split}_{self.model_name}.json'), 'w', encoding='utf-8') as f:
             json.dump(outputs, f, indent=2, ensure_ascii=False)
 
 def parse_args():
